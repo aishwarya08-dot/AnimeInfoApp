@@ -13,3 +13,9 @@ You have to develop UI with these features:
 	•	Filter: To filter anime according to genres
 	•	Create Watchlist: To create watchlist, where user has ability to drag any anime from anime list and drop it to watchlist container.
 NOTE: After refreshing the page, watchlist should remain the same (HINT: use localstorage).
+
+How to Run:
+1. npm install anime_aish --save
+2. npm start
+3. npm run test
+4. npm run build
